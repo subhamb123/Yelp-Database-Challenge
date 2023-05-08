@@ -1,1 +1,4 @@
 # Yelp-Database-Challenge [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/subhamb123/Yelp-Database-Challenge/blob/main/LICENSE)
+This project implements a GUI so the user can easily search what businesses are there in a certain location from a sample Yelp dataset. They do this by selecting a state, city, and zipcode. The app displays miscellaneous statistics about the zipcode. Next, the user can further refine their search by selecting on a category or seeing what businesses are popular and successful.
+
+This project uses SQL and python. As there is no way to upload the entire database, I posted a demo of my project here: https://www.youtube.com/watch?v=5Qf_k34gzcY. Because of this, only the python code to run the app is given, but you will have to write the SQL code to insert values.
